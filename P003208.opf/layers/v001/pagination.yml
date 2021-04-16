@@ -3,72 +3,62 @@ annotation_type: pagination
 revision: '00001'
 annotations:
   be10af6ac5bf4b149ac4c2e2d147989d:
-    page_index: 1a
-    page_info: null
-    reference: I1CZ20250001
+    imgnum: 1
+    reference: I1CZ20250001.tif
     span:
       start: 0
       end: 739
   19f07406718c464e84bc9588596f8eb4:
-    page_index: 2a
-    page_info: null
-    reference: I1CZ20250003
+    imgnum: 3
+    reference: I1CZ20250003.tif
     span:
       start: 744
       end: 878
   e50b71d7ead3481b851f20c126545192:
-    page_index: 2b
-    page_info: null
-    reference: I1CZ20250004
+    imgnum: 4
+    reference: I1CZ20250004.tif
     span:
       start: 883
       end: 1605
   5196d102423f49188a0bf99ce41dc629:
-    page_index: 3a
-    page_info: null
-    reference: I1CZ20250005
+    imgnum: 5
+    reference: I1CZ20250005.tif
     span:
       start: 1610
       end: 2162
   025aede027e340dc958033ea3a649b15:
-    page_index: 3b
-    page_info: null
-    reference: I1CZ20250006
+    imgnum: 6
+    reference: I1CZ20250006.tif
     span:
       start: 2167
       end: 3140
   0422ecfd03a249adbc8fd648e1b80c3b:
-    page_index: 4a
-    page_info: null
-    reference: I1CZ20250007
+    imgnum: 7
+    reference: I1CZ20250007.tif
     span:
       start: 3145
       end: 4090
   96bdc576bfeb48ed94e1a81bad8fd60b:
-    page_index: 4b
-    page_info: null
-    reference: I1CZ20250008
+    imgnum: 8
+    reference: I1CZ20250008.tif
     span:
       start: 4095
       end: 5041
   e341e9134f7c4b77bdde623b49c3a104:
-    page_index: 5a
-    page_info: null
-    reference: I1CZ20250009
+    imgnum: 9
+    reference: I1CZ20250009.tif
     span:
       start: 5046
       end: 5993
   49ceaa61a911498bb41a771d85bf635a:
-    page_index: 5b
-    page_info: null
-    reference: I1CZ20250010
+    imgnum: 10
+    reference: I1CZ20250010.tif
     span:
       start: 5998
       end: 6242
   c2870eda45c247a9941a898e6cb75372:
-    page_index: 6a
-    page_info: null
-    reference: I1CZ20250011
+    imgnum: 11
+    reference: I1CZ20250011.tif
     span:
       start: 6247
       end: 6571
